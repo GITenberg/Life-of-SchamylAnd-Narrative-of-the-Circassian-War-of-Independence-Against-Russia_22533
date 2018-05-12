@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25390'
     url: http://www.gutenberg.org/2009/agents/25390
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22533#Life-of-SchamylAnd-Narrative-of-the-Circassian-War-of-Independence-Against-Russia
 gutenberg_issued: '2007-09-07'
 gutenberg_type: Text
 identifiers:
