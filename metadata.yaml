@@ -1,0 +1,31 @@
+_repo: Life-of-SchamylAnd-Narrative-of-the-Circassian-War-of-Independence-Against-Russia_22533
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mackie, J. Milton (John Milton)
+    alias: Mackie, John Milton
+    birthdate: 1813
+    deathdate: 1894
+    gutenberg_agent_id: '25390'
+    url: http://www.gutenberg.org/2009/agents/25390
+description: ''
+gutenberg_issued: '2007-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22533'
+  lccn: '14000081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Shamil, Imam, 1798?-1871'
+- !lcsh 'Caucasus -- History'
+title: 'Life of Schamyl
+
+  And Narrative of the Circassian War of Independence Against Russia'
+url: http://www.gutenberg.org/ebooks/22533
